@@ -1,0 +1,278 @@
+resistance,Arcane,Lvl 0,Abjuration
+acid splash,Arcane,Lvl 0,Conjuration
+drench,Arcane,Lvl 0,Conjuration
+detect fiendish presence,Arcane,Lvl 0,Divination
+detect magic,Arcane,Lvl 0,Divination
+detect poison,Arcane,Lvl 0,Divination
+read magic,Arcane,Lvl 0,Divination
+daze,Arcane,Lvl 0,Enchantment
+breeze,Arcane,Lvl 0,Evocation
+dancing lights,Arcane,Lvl 0,Evocation
+flare,Arcane,Lvl 0,Evocation
+light,Arcane,Lvl 0,Evocation
+penumbra,Arcane,Lvl 0,Evocation
+ray of frost,Arcane,Lvl 0,Evocation
+scoop,Arcane,Lvl 0,Evocation
+spark,Arcane,Lvl 0,Evocation
+ghost sound,Arcane,Lvl 0,Illusion
+haunted fey aspect,Arcane,Lvl 0,Illusion
+bleed,Arcane,Lvl 0,Necromancy
+disrupt undead,Arcane,Lvl 0,Necromancy
+touch of fatigue,Arcane,Lvl 0,Necromancy
+jolt,Arcane,Lvl 0,Transmutation
+mage hand,Arcane,Lvl 0,Transmutation
+mending,Arcane,Lvl 0,Transmutation
+message,Arcane,Lvl 0,Transmutation
+open,Arcane,Lvl 0,Transmutation
+close,Arcane,Lvl 0,Transmutation
+root,Arcane,Lvl 0,Transmutation
+scrivener's chant,Arcane,Lvl 0,Transmutation
+arcane mark,Arcane,Lvl 0,Universal
+prestidigitation,Arcane,Lvl 0,Universal
+abjuring step,Arcane,Lvl 1,Abjuration
+alarm,Arcane,Lvl 1,Abjuration
+endure elements,Arcane,Lvl 1,Abjuration
+hold portal,Arcane,Lvl 1,Abjuration
+incendiary runes,Arcane,Lvl 1,Abjuration
+invisibility alarm,Arcane,Lvl 1,Abjuration
+line in the sand,Arcane,Lvl 1,Abjuration
+obscure poison,Arcane,Lvl 1,Abjuration
+peacebond,Arcane,Lvl 1,Abjuration
+protection from chaos,Arcane,Lvl 1,Abjuration
+protection from evil,Arcane,Lvl 1,Abjuration
+protection from good,Arcane,Lvl 1,Abjuration
+protection from law,Arcane,Lvl 1,Abjuration
+sheild,Arcane,Lvl 1,Abjuration
+shock shield,Arcane,Lvl 1,Abjuration
+stunning barrier,Arcane,Lvl 1,Abjuration
+sunder breaker,Arcane,Lvl 1,Abjuration
+wave shield,Arcane,Lvl 1,Abjuration
+winter feathers,Arcane,Lvl 1,Abjuration
+abundant ammunition,Arcane,Lvl 1,Conjuration
+adhesive spittle,Arcane,Lvl 1,Conjuration
+air bubble,Arcane,Lvl 1,Conjuration
+celestial healing,Arcane,Lvl 1,Conjuration
+corrosive touch,Arcane,Lvl 1,Conjuration
+desperate weapon,Arcane,Lvl 1,Conjuration
+expeditious construction,Arcane,Lvl 1,Conjuration
+glue seal,Arcane,Lvl 1,Conjuration
+grease,Arcane,Lvl 1,Conjuration
+guardian armor,Arcane,Lvl 1,Conjuration
+guardian armour,Arcane,Lvl 1,Conjuration
+icicle dagger,Arcane,Lvl 1,Conjuration
+infernal healing,Arcane,Lvl 1,Conjuration
+ki arrow,Arcane,Lvl 1,Conjuration
+mage armor,Arcane,Lvl 1,Conjuration
+mage armour,Arcane,Lvl 1,Conjuration
+mount,Arcane,Lvl 1,Conjuration
+obscuring mist,Arcane,Lvl 1,Conjuration
+secluded grimoire,Arcane,Lvl 1,Conjuration
+snowball,Arcane,Lvl 1,Conjuration
+songbird,Arcane,Lvl 1,Conjuration
+stone shield,Arcane,Lvl 1,Conjuration
+stumble gap,Arcane,Lvl 1,Conjuration
+summon minor monster,Arcane,Lvl 1,Conjuration
+Summon monster 1,Arcane,Lvl 1,Conjuration
+summon monster i,Arcane,Lvl 1,Conjuration
+unseen servant,Arcane,Lvl 1,Conjuration
+web bolt,Arcane,Lvl 1,Conjuration
+anticipate peril,Arcane,Lvl 1,Divination
+comprehend languages,Arcane,Lvl 1,Divination
+cultural languages,Arcane,Lvl 1,Divination
+detect charm,Arcane,Lvl 1,Divination
+detect metal,Arcane,Lvl 1,Divination
+detect radiation,Arcane,Lvl 1,Divination
+detect secret doors,Arcane,Lvl 1,Divination
+detect undead,Arcane,Lvl 1,Divination
+discern next of kin,Arcane,Lvl 1,Divination
+heightened awareness,Arcane,Lvl 1,Divination
+identify,Arcane,Lvl 1,Divination
+linked legacy,Arcane,Lvl 1,Divination
+mindlink,Arcane,Lvl 1,Divination
+see alignment,Arcane,Lvl 1,Divination
+technomancy,Arcane,Lvl 1,Divination
+true strike,Arcane,Lvl 1,Divination
+aphasia,Arcane,Lvl 1,Enchantment
+bungle,,Arcane,Lvl 1,Enchantment
+charm person,Arcane,Lvl 1,Enchantment
+delusion pride,Arcane,Lvl 1,Enchantme
+hypnotism,Arcane,Lvl 1,Enchantment
+keep watch,Arcane,Lvl 1,Enchantment
+lock gaze,Arcane,Lvl 1,Enchantment
+memorize page,Arcane,Lvl 1,Enchantment
+memory lapse,Arcane,Lvl 1,Enchantment
+moment of greatness,Arcane,Lvl 1,Enchantment
+sleep,Arcane,Lvl 1,Enchantment
+unprepared combatant,Arcane,Lvl 1,Enchantment
+bestow planar infusion 1,Arcane,Lvl 1,Evocation
+bestow planar infusion i,Arcane,Lvl 1,Evocation
+burning hands,Arcane,Lvl 1,Evocation
+dancing darkness,Arcane,Lvl 1,Evocation
+ear-piercing scream,Arcane,Lvl 1,Evocation
+ear piercing scream,Arcane,Lvl 1,Evocation
+flare burst,Arcane,Lvl 1,Evocation
+floating disk,Arcane,Lvl 1,Evocation
+gentle breeze,Arcane,Lvl 1,Evocation
+hydraulic push,Arcane,Lvl 1,Evocation
+magic missile,Arcane,Lvl 1,Evocation
+shocking grasp,Arcane,Lvl 1,Evocation
+snowball,Arcane,Lvl 1,Evocation
+thunderstomp,Arcane,Lvl 1,Evocation
+thunder stomp,Arcane,Lvl 1,Evocation
+touch of combustion,Arcane,Lvl 1,Evocation
+alter musical instrument,Arcane,Lvl 1,Illusion
+auditory hallucination,Arcane,Lvl 1,Illusion
+blend,Arcane,Lvl 1,Illusion
+blurred movement,Arcane,Lvl 1,Illusion
+clarion call,Arcane,Lvl 1,Illusion
+color spray,Arcane,Lvl 1,Illusion
+darting duplicate,Arcane,Lvl 1,Illusion
+dazzling blade,Arcane,Lvl 1,Illusion
+disguise self,Arcane,Lvl 1,Illusion
+disguise weapon,Arcane,Lvl 1,Illusion
+illusion of calm,Arcane,Lvl 1,Illusion
+magic aura,Arcane,Lvl 1,Illusion
+negative reaction,Arcane,Lvl 1,Illusion
+open and shut,Arcane,Lvl 1,Illusion
+shadow trap,Arcane,Lvl 1,Illusion
+shadow weapon,Arcane,Lvl 1,Illusion
+silent image,Arcane,Lvl 1,Illusion
+vanish,Arcane,Lvl 1,Illusion
+ventriloquism,Arcane,Lvl 1,Illusion
+bed of iron,Arcane,Lvl 1,Necromancy
+cause fear,Arcane,Lvl 1,Necromancy
+chill touch,Arcane,Lvl 1,Necromancy
+decompose corpse,Arcane,Lvl 1,Necromancy
+grasping corpse,Arcane,Lvl 1,Necromancy
+interrogation,Arcane,Lvl 1,Necromancy
+itching curse,Arcane,Lvl 1,Necromancy
+phantom blood,Arcane,Lvl 1,Necromancy
+positive pulse,Arcane,Lvl 1,Necromancy
+ray of enfeeblement,Arcane,Lvl 1,Necromancy
+ray of sickening,Arcane,Lvl 1,Necromancy
+repair undead,Arcane,Lvl 1,Necromancy
+restore corpse,Arcane,Lvl 1,Necromancy
+sculpt corpse,Arcane,Lvl 1,Necromancy
+touch of blindness,Arcane,Lvl 1,Necromancy
+alchemical tinkering,Arcane,Lvl 1,Transmutation
+alter winds,Arcane,Lvl 1,Transmutation
+animate rope,Arcane,Lvl 1,Transmutation
+ant haul,Arcane,Lvl 1,Transmutation
+body capacitance,Arcane,Lvl 1,Transmutation
+bouncy body,Arcane,Lvl 1,Transmutation
+break,Arcane,Lvl 1,Transmutation
+blood money,Arcane,Lvl 1,Transmutation
+burning disarm,Arcane,Lvl 1,Transmutation
+crafter's curse,Arcane,Lvl 1,Transmutation
+crafters curse,Arcane,Lvl 1,Transmutation
+crafter's fortune,Arcane,Lvl 1,Transmutation
+crafters fortune,Arcane,Lvl 1,Transmutation
+damp powder,Arcane,Lvl 1,Transmutation
+dancing lantern,Arcane,Lvl 1,Transmutation
+emblazon crest,Arcane,Lvl 1,Transmutation
+endothermic touch,Arcane,Lvl 1,Transmutation
+enlarge person,Arcane,Lvl 1,Transmutation
+erase,Arcane,Lvl 1,Transmutation
+expeditious excavation,Arcane,Lvl 1,Transmutation
+expeditious retreat,Arcane,Lvl 1,Transmutation
+fabricate bullets,Arcane,Lvl 1,Transmutation
+fabricate disguise,Arcane,Lvl 1,Transmutation
+feather fall,Arcane,Lvl 1,Transmutation
+forced quiet,Arcane,Lvl 1,Transmutation
+gravity bow,Arcane,Lvl 1,Transmutation
+handy grapnel,Arcane,Lvl 1,Transmutation
+jump,Arcane,Lvl 1,Transmutation
+jury-rig,Arcane,Lvl 1,Transmutation
+jury rig,Arcane,Lvl 1,Transmutation
+juryrig,Arcane,Lvl 1,Transmutation
+liberating command,Arcane,Lvl 1,Transmutation
+lighten object,Arcane,Lvl 1,Transmutation
+long arm,Arcane,Lvl 1,Transmutation
+longshot,Arcane,Lvl 1,Transmutation
+long shot,Arcane,Lvl 1,Transmutation
+magic weapon,Arcane,Lvl 1,Transmutation
+marid's mastery,Arcane,Lvl 1,Transmutation
+marids mastery,Arcane,Lvl 1,Transmutation
+mirror polish,Arcane,Lvl 1,Transmutation
+Mirror strike,Arcane,Lvl 1,Transmutation
+monkey fish,Arcane,Lvl 1,Transmutation
+poisoned egg,Arcane,Lvl 1,Transmutation
+polypurpose panacea,Arcane,Lvl 1,Transmutation
+recharge innate magic,Arcane,Lvl 1,Transmutation
+reduce person,Arcane,Lvl 1,Transmutation
+refine improvised weapon,Arcane,Lvl 1,Transmutation
+reinforce armaments,Arcane,Lvl 1,Transmutation
+snapdragon fireworks,Arcane,Lvl 1,Transmutation
+stone fist,Arcane,Lvl 1,Transmutation
+sundering shards,Arcane,Lvl 1,Transmutation
+swift girding,Arcane,Lvl 1,Transmutation
+touch of gracelessness,Arcane,Lvl 1,Transmutation
+touch of the sea,Arcane,Lvl 1,Transmutation
+transfer tattoo,Arcane,Lvl 1,Transmutation
+unerring weapon,Arcane,Lvl 1,Transmutation
+vocal alteration,Arcane,Lvl 1,Transmutation
+weaken powder,Arcane,Lvl 1,Transmutation
+windy escape,Arcane,Lvl 1,Transmutation
+wizened appearance,Arcane,Lvl 1,Transmutation
+youthful appearance,Arcane,Lvl 1,Transmutation
+anti-summoning shield,Arcane,Lvl 2,Abjuration
+anti summoning shield,Arcane,Lvl 2,Abjuration
+arcane lock,Arcane,Lvl 2,Abjuration
+book ward,Arcane,Lvl 2,Abjuration
+bullet shield,Arcane,Lvl 2,Abjuration
+bullet ward,Arcane,Lvl 2,Abjuration
+crimson confession,Arcane,Lvl 2,Abjuration
+death from below,Arcane,Lvl 2,Abjuration
+disrupt link,Arcane,Lvl 2,Abjuration
+endure elements, communal,Arcane,Lvl 2,Abjuration
+endure elements communal,Arcane,Lvl 2,Abjuration
+escaping ward,Arcane,Lvl 2,Abjuration
+gird ally,Arcane,Lvl 2,Abjuration
+miserable pity,Arcane,Lvl 2,Abjuration
+obscure object,Arcane,Lvl 2,Abjuration
+protection from arrows,Arcane,Lvl 2,Abjuration
+protection from chaos, communal,Arcane,Lvl 2,Abjuration
+protection from chaos communal,Arcane,Lvl 2,Abjuration
+protection from evil, communal,Arcane,Lvl 2,Abjuration
+protection from evil communal,Arcane,Lvl 2,Abjuration
+protection from good, communal,Arcane,Lvl 2,Abjuration
+protection from good communal,Arcane,Lvl 2,Abjuration
+protection from law, communal,Arcane,Lvl 2,Abjuration
+protection from law communal,Arcane,Lvl 2,Abjuration
+resist energy,Arcane,Lvl 2,Abjuration
+warding weapon,Arcane,Lvl 2,Abjuration
+with the wind,Arcane,Lvl 2,Abjuration
+acid arrow,Arcane,Lvl 2,Conjuration
+alter summoned monster,Arcane,Lvl 2,Conjuration
+arrow eruption,Arcane,Lvl 2,Conjuration
+blade tutor's spirit,Arcane,Lvl 2,Conjuration
+blade tutors spirit,Arcane,Lvl 2,Conjuration
+callback,Arcane,Lvl 2,Conjuration
+cloud of seasickness,Arcane,Lvl 2,Conjuration
+create pit,Arcane,Lvl 2,Conjuration
+cushioning bands,Arcane,Lvl 2,Conjuration
+dust of twilight,Arcane,Lvl 2,Conjuration
+euphoric cloud,Arcane,Lvl 2,Conjuration
+fiery shuriken,Arcane,Lvl 2,Conjuration
+fog cloud,Arcane,Lvl 2,Conjuration
+glitterdust,Arcane,Lvl 2,Conjuration
+glitter dust,Arcane,Lvl 2,Conjuration
+instant weapon,Arcane,Lvl 2,Conjuration
+mount, communal,Arcane,Lvl 2,Conjuration
+mount communal,Arcane,Lvl 2,Conjuration
+mud buddy,Arcane,Lvl 2,Conjuration
+reloading hands,Arcane,Lvl 2,Conjuration
+retrieve item,Arcane,Lvl 2,Conjuration
+returning weapon,Arcane,Lvl 2,Conjuration
+river whip,Arcane,Lvl 2,Conjuration
+shackle,Arcane,Lvl 2,Conjuration
+slipstream,Arcane,Lvl 2,Conjuration
+stone call,Arcane,Lvl 2,Conjuration
+stone discus,Arcane,Lvl 2,Conjuration
+summon monster 2,Arcane,Lvl 2,Conjuration
+summon monster ii,Arcane,Lvl 2,Conjuration
+summon swarm,Arcane,Lvl 2,Conjuration
+vine strike,Arcane,Lvl 2,Conjuration
+web,Arcane,Lvl 2,Conjuration
+web shelter,Arcane,Lvl 2,Conjuration
+whip of spiders,Arcane,Lvl 2,Conjuration
