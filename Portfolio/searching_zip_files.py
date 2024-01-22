@@ -2,8 +2,6 @@ import os
 import zipfile
 import time
 
-## Tested against 606 items in a zip (12 mb of data). Process completed and reported in 19.47 seconds.
-## Tested with half gb zip file. Search took 133.70 seconds.
 
 start = time.time()
 os.chdir(os.path.dirname(__file__))
